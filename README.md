@@ -1,16 +1,13 @@
-### Hi there 👋
+# Welcome to My GitHub Profile 👋
 
-<!--
-**hjlarrea/hjlarrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Hernan, a Technical Product Manager with a strong focus on building platforms and PaaS (Platform-as-a-Service) offerings. My journey in the IT world has been shaped by a deep background in Infrastructure, with a particular expertise in cloud providers —especially Azure— and automation using Python and PowerShell.
 
-Here are some ideas to get you started:
+Over the years, I've cultivated a passion for technologies like Python, Kubernetes, and Docker, which I enthusiastically leverage to build and optimize platforms. My experience spans over a decade, during which I've specialized in IT-related products, driving innovation and efficiency through platform engineering and DevOps adoption.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repositories, where you'll find projects that reflect my interests and expertise in these technologies. I'm always open to collaboration and discussions, so don't hesitate to reach out!
+
+## Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/hjlarrea)
+
+Thanks for visiting my GitHub, and I look forward to connecting with you!
