@@ -9,5 +9,6 @@ Feel free to explore my repositories, where you'll find projects that reflect my
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/hjlarrea)
+- [Web](https://hernan.larrea.com.ar)
 
 Thanks for visiting my GitHub, and I look forward to connecting with you!
